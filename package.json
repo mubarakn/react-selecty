@@ -1,6 +1,6 @@
 {
   "name": "react-selecty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Perfomance based dropdown select component for react.",
   "main": "index.js",
   "scripts": {
