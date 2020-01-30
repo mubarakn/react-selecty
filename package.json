@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mubarak-basha/selective.git"
+    "url": "git+https://github.com/mubarakn/react-selecty.git"
   },
   "keywords": [
     "\"react",
@@ -20,7 +20,7 @@
   "author": "Mubarak Basha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mubarak-basha/selective/issues"
+    "url": "https://github.com/mubarakn/react-selecty/issues"
   },
-  "homepage": "https://github.com/mubarak-basha/selective#readme"
+  "homepage": "https://github.com/mubarakn/react-selecty#readme"
 }
