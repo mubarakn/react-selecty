@@ -1,0 +1,26 @@
+.ReactSelect-control {
+    background-color: #FFF;
+}
+
+.ReactSelect-input {
+    border: none;
+    padding: 4px;
+}
+
+.ReactSelect-input:focus {
+    outline: none;
+}
+
+.ReactSelect-item {
+    padding: 4px;
+}
+
+.ReactSelect-item:hover {
+    background-color: #EEE;
+    cursor: pointer;
+}
+
+.ReactSelect-selected {
+    background-color: hsl(197, 78%, 52%);
+    color: #FFF;
+}
